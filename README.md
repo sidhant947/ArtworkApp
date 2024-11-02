@@ -1,6 +1,9 @@
-# Artwork App
+# Artwork App <img src="https://github.com/user-attachments/assets/235bef78-3d3b-4284-9597-060d31f9f15f" width="40" height="40">
 
 An interactive mobile app to browse, search, and view details about artworks from the Art Institute of Chicago's API.
+
+
+
 
 ## Features
 
